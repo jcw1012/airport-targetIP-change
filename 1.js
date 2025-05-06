@@ -1,3 +1,4 @@
+JavaScript
 function operator(proxies) {
   const targetIP = "113.108.90.36";
   
